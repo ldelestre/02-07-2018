@@ -1,1 +1,1 @@
-puts "Gwendoline CASSAND"
+puts "-> Gwendoline CASSAND"
